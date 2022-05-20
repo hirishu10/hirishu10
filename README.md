@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/getHeadDark)
+![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/testingAPI)
 
 ### Hello Everyone 👋
 
