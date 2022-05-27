@@ -25,7 +25,11 @@ My name is Rishu Chowdhary a `Software Developer` with hands-on experience with 
 
 projects I have good command over frontend and backend. 
   
- ![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/starRepo/getStarLight?name=simple-page-bus-ticket-booking-HTML-CSS-JavaScript&description=Simple%20page%20Bus%20Ticket%20Booking%20using%20HTML%20CSS%20and%20JavaScript&star=1&fork=0&language=HTML&license=MIT)                                                                 ![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/starRepo/getStarDark?name=simple-page-bus-ticket-booking-HTML-CSS-JavaScript&description=Simple%20page%20Bus%20Ticket%20Booking%20using%20HTML%20CSS%20and%20JavaScript&star=1&fork=0&language=HTML&license=MIT)           
+ ![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/starRepo/getStarDark?user=hirishu10&repo=reactnative-login-register-ui-with-ChatApp-Functionality&license=MIT)                                                                 ![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/starRepo/getStarLight?user=hirishu10&repo=simple-date-time)           
+
+
+
+![https://github-readme-design.vercel.app/api/metricCard?user=hirishu10](https://github-readme-design.vercel.app/api/metricCard?user=hirishu10)
 
 **hirishu10/hirishu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
