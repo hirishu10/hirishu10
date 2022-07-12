@@ -1,5 +1,7 @@
 
-<!-- ![test #10](https://github-readme-design.vercel.app/api/getHeadLight) -->
+
+
+<!-- ![headerBanner](https://github-readme-design.vercel.app/api/getHeadLight) -->
 
 <!-- ### Hi there 👋 -->
 <!--
@@ -15,15 +17,43 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="https://github-readme-design.vercel.app/">
+  <img align="center" src="https://github-readme-design.vercel.app/api/metricCard?user=hirishu10" />
+</a>
+<a href="https://github-readme-design.vercel.app/">
+  <img align="center" src="https://github-readme-design.vercel.app/api/languageCard?user=hirishu10" />
+</a>
+
+
+<a href="https://github-readme-design.vercel.app/">
+    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/main/foterRishu.png" />
+  </a>  
+
 -->
 
-![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/testingAPI)
+
+  <a href="https://github-readme-design.vercel.app/">
+    <img align="center" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740%27%20height=%2727%27/%3e" />
+  </a>  
+
+![headerBanner](https://github-readme-design.vercel.app/api/getHeadLight)
 
 ### Hello Everyone 👋
 
 My name is Rishu Chowdhary a `Software Developer` with hands-on experience with some 
 
 projects I have good command over frontend and backend. 
+  
+  
+<a href="https://github-readme-design.vercel.app/">
+  <img align="center" src="https://github-readme-design.vercel.app/api/metricCard?user=hirishu10" />
+</a>
+<a href="https://github-readme-design.vercel.app/">
+  <img align="center" src="https://github-readme-design.vercel.app/api/languageCard?user=hirishu10" />
+</a>
+
   
  ![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/starRepo/getStarDark?user=hirishu10&repo=reactnative-login-register-ui-with-ChatApp-Functionality&license=MIT)                                                                 ![https://github.com/hirishu10](https://github-readme-design.vercel.app/api/starRepo/getStarLight?user=hirishu10&repo=simple-date-time)           
 
@@ -43,3 +73,9 @@ Here are some ideas to get you started:
 - 📫 You Can always reach out to me via dropping an email at- [hi.10rishu@gmail.com](https://instantmarkdown.herokuapp.com/)
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: If you try there is nothing you can't do 🙂
+
+
+
+  <a href="https://github-readme-design.vercel.app/">
+    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/main/foterRishu.png" />
+  </a>  
