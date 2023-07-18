@@ -8,11 +8,11 @@
 ## Hello Everyone 👋
 
 
-I am Rishu Chowdhary Software Developer having a good command of backend as well as frontend with knowledge of many programming languages like Java, JavaScript, Python, TypeScript, etc.
+I am Rishu Chowdhary Software Developer having a good command of the backend as well as some frontend with knowledge of many programming languages and tools like Java, JavaScript, Python, TypeScript, etc.
 
-I taught myself to build a career as a developer. While learning to become a successful Developer. I learn many tools and did practice building some apps which helped me and others. I like to use and build restful API which helps to control the data flow and I always look to try new things and tools to enhance my skills.
+I taught myself to build my career as a developer while learning to become a successful developer, I learn many tools and doing practice while building some apps which helped me and others. I like to use and build restful API which helps to control the data flow and I always look to try new things and tools to enhance my skills.
 
-#### Pinned Repositry 📕
+#### Pinned Repository 📕
 
 <a href="https://github-readme-design.vercel.app/">
   <img align="center" src="https://github-readme-design.vercel.app/api/starRepo/getStarLight?user=hirishu10&repo=github-readme-design" />
@@ -91,6 +91,10 @@ and more.....
 <!-- JavaScript <img align="center" style="width:22px;" src="https://raw.githubusercontent.com/hirishu10/my-assets/main/svg/js-icon.png"/> -->
 <br>
 <br>
+
+<a href="https://rishuchowdhary.statuspage.io/" style="width:50px;height:30px;background-color:red;">
+  Status • All System Operational
+</a>  
 
 
 <a href="https://rishuchowdhary.vercel.app/">
