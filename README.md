@@ -1,16 +1,30 @@
   <a href="https://rishuchowdhary.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/main/svg/backgroundImages/githubBanner.png" />
+    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/main/svg/backgroundImages/githubBanner.png" alt="https://rishuchowdhary.vercel.app/"/>
   </a>  
 
 
 <br>
 
-## Hello Everyone 👋
+# Hey Dev's 👋
+
+A Software Developer with experience in Application Development, Data Security, Backend Services, Full Stack Development, and Continuous Improvement. Seeking and identifying opportunities to enhance the existing project experience with new functionality and updates.
+
+I focus on developing scalable and well-documented code. I help others and enjoy collaborating with them and also do projects independently. I am always looking for a good opportunity to learn more and improve my skills as well as gain prior work experience.
+
+### Connect and Follow with me 🙂
+
+→ **Linkedin** : [@rishuchowdhary](https://www.linkedin.com/in/rishuchowdhary/)
+
+→ **Instagram** : [@rishuchowdhary](https://www.instagram.com/rishuchowdhary/)
+
+→ **Twitter / X** : [@rishuchowdhary](https://twitter.com/rishuchowdhary)
+
+→ **Facebook** : [@rishu.chowdhary10](https://www.facebook.com/rishu.chowdhary10/)
+
+Email: hi.10rishu@gmail.com
+Web: [rishuchowdhary.vercel.app](https://rishuchowdhary.vercel.app/)
 
 
-I am Rishu Chowdhary Software Developer having a good command of the backend as well as some frontend with knowledge of many programming languages and tools like Java, JavaScript, Python, TypeScript, etc.
-
-I taught myself to build my career as a developer while learning to become a successful developer, I learn many tools and doing practice while building some apps which helped me and others. I like to use and build restful API which helps to control the data flow and I always look to try new things and tools to enhance my skills.
 
 #### Pinned Repository 📕
 
