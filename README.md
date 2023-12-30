@@ -1,5 +1,5 @@
   <a href="https://rishuchowdhary.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/hirishu10/personal-portfolio/main/public/thumbnail_image.png?token=GHSAT0AAAAAACEVWQOMPVDSH65W6MJO4SVSZMJXF6Q" alt="https://rishuchowdhary.vercel.app/"/>
+    <img align="center" src="https://github.com/hirishu10/personal-portfolio/blob/main/public/thumbnail_image.png?raw=true" alt="https://rishuchowdhary.vercel.app/"/>
   </a>  
 
 
