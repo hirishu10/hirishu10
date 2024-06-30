@@ -7,9 +7,9 @@
 
 # Hey Dev's 👋
 
-A Software Developer with experience in Application Development, Data Security, Backend Services, Full Stack Development, and Continuous Improvement. Seeking and identifying opportunities to enhance the existing project experience with new functionality and updates.
+A Software Developer with experience in Application Development, Data Security, Backend Services, Full Stack Development, and Continuous Improvement. I am seeking and identifying opportunities to enhance the existing project experience with new functionality and updates.
 
-I focus on developing scalable and well-documented code. I help others and enjoy collaborating with them and also do projects independently. I am always looking for a good opportunity to learn more and improve my skills as well as gain prior work experience.
+I focus on developing scalable and well-documented code. I help others, enjoy collaborating with them, and do projects independently. I always look for opportunities to learn more, improve my skills, and gain prior work experience.
 
 ### Connect and Follow with me 🙂
 
