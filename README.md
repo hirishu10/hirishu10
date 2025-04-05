@@ -1,11 +1,10 @@
   <a href="https://rishuchowdhary.vercel.app/">
-    <img align="center" src="https://rishuchowdhary.vercel.app/thumbnail_image.png" alt="https://rishuchowdhary.vercel.app/"/>
+    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/refs/heads/main/assets/rishu_chowdhary_linkedin_thumbnail.png" alt="https://rishuchowdhary.vercel.app/"/>
   </a>  
-
 
 <br>
 
-# Hey Dev's 👋
+# Hello, everyone! 👋
 
 A Software Developer with experience in Application Development, Data Security, Backend Services, Full Stack Development, and Continuous Improvement. I am seeking and identifying opportunities to enhance the existing project experience with new functionality and updates.
 
