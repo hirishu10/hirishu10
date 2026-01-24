@@ -1,27 +1,28 @@
-  <a href="https://rishuchowdhary.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/refs/heads/main/assets/rishu_chowdhary_linkedin_thumbnail.png" alt="https://rishuchowdhary.vercel.app/"/>
+  <a href="https://rishu.dev">
+    <img align="center" src="https://raw.githubusercontent.com/hirishu10/my-assets/refs/heads/main/assets/rishu_chowdhary_linkedin_thumbnail.png.png" alt="https://rishu.dev"/>
   </a>  
 
 <br>
 
 # Hello, everyone! 👋
 
-A Software Developer with experience in Application Development, Data Security, Backend Services, Full Stack Development, and Continuous Improvement. I am seeking and identifying opportunities to enhance the existing project experience with new functionality and updates.
+I am a Software Developer with hands-on experience in application development, backend services, data security, and full-stack solutions. I enjoy building scalable, well-structured, and well-documented applications that solve real-world problems and evolve with business needs.
 
-I focus on developing scalable and well-documented code. I help others, enjoy collaborating with them, and do projects independently. I always look for opportunities to learn more, improve my skills, and gain prior work experience.
+I actively seek opportunities to enhance existing products by introducing new features, improving performance, and maintaining clean, maintainable code. Collaboration motivates me—I enjoy working with teams, mentoring peers, and also taking ownership of projects independently.
 
-### Connect and Follow with me 🙂
+I am driven by continuous learning and self-improvement, always exploring new technologies and best practices to strengthen my skill set and deliver better outcomes.
 
-→ **Linkedin** : [@rishuchowdhary](https://www.linkedin.com/in/rishuchowdhary/)
+Let’s connect and grow together 🚀
 
-→ **Instagram** : [@rishuchowdhary](https://www.instagram.com/rishuchowdhary/)
+🔗 LinkedIn: [linkedin.com/in/rishuchowdhary](https://www.linkedin.com/in/rishuchowdhary)
 
-→ **Twitter / X** : [@rishuchowdhary](https://twitter.com/rishuchowdhary)
+🐦 Twitter / X: [twitter.com/rishuchowdhary](https://x.com/rishuchowdhary)
 
-→ **Facebook** : [@rishu.chowdhary10](https://www.facebook.com/rishu.chowdhary10/)
+📸 Instagram: [instagram.com/rishuchowdhary](https://www.instagram.com/rishuchowdhary)
 
-Email: hi.10rishu@gmail.com
-Web: [rishuchowdhary.vercel.app](https://rishuchowdhary.vercel.app/)
+🌐 Portfolio: [rishu.dev](https://rishu.dev)
+
+📧 Email: hi.10rishu@gmail.com
 
 
 
